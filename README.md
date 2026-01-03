@@ -1,18 +1,18 @@
-# Welcome to your Lovable project
+# Welcome to Code Companion AI project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: https://code-companion-ai-mu.vercel.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use **
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
